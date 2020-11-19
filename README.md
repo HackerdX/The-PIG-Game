@@ -11,3 +11,5 @@ I) How Game Works
  II) OPEN FOR IMPROVEMENTS.
  
  III) Please give it a star if you liked it.....Thankyou..:-)
+ 
+ PS: press F11 if score box is not visible
