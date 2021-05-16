@@ -1,5 +1,7 @@
 # The-PIG-Game
 
+Published Here: https://hackerdx.github.io/The-PIG-Game/
+
 I) How Game Works
 
   1) Set the score between 100 - 99999
